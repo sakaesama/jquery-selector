@@ -1,0 +1,41 @@
+body {
+
+}
+
+.highlight {
+    border-bottom: 1px solid #e6db55;
+    padding: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: #00c;
+}
+
+.background {
+	color: #CC0000;
+	background-color: #e6db55;
+}
+
+.email { 
+    padding-right: 20px;
+    background-color: #CCEBFF;
+}
+ 
+.ebook { 
+padding-right: 20px;
+background-color: #CCEBFF;
+}
+ 
+.hyperlink { 
+padding-right: 20px;
+background-color: #CCEBFF;
+}
+
+.red{
+	color: red;
+}
+
+.external{
+	color: red;
+}
